@@ -1,0 +1,5 @@
+TK101;Ankara;İstanbul;01.09.2021;10:00;180
+TK102;İstanbul;Ankara;01.09.2021;13:00;180
+TK103;Ankara;İzmir;15.09.2021;12:00;120
+TK104;Ankara;Antalya;06.09.2021;16:00;150
+TK105;Amsterdam;Ankara;23.08.2021;10:00;210
